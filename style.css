@@ -1,0 +1,95 @@
+#second{
+                
+    text-align: right;
+    
+    
+}
+#name{
+    font-size: 30px;
+    font-weight: bold;
+}
+#Head{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.h{
+    border:1px solid black;
+}
+.m{
+    border-left: 0.5px solid black;
+    border-right:0.5px solid black;
+    text-align: center;
+
+}
+.mm{
+    border-bottom: 1px solid black;
+}
+.m1{
+    border-top: 0.5px solid black;
+}
+#tabedu{
+    width:100%;
+    border:1px solid black;
+}
+
+.headingContent{
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: underline;
+    text-align: left;
+}
+.subHeading{
+    font-weight: normal;
+    font-size: 16px;
+    text-align: left;
+}
+.location{
+    font-weight: normal;
+    font-size: 12px;
+    text-align: right;
+}
+.time{
+    font-weight: normal;
+    font-size: 12px;
+    text-align: right;
+}
+.textContent{
+    
+    text-align: left;
+}
+#bottomDivision{
+    display: flex;
+    flex-direction: row;
+}
+.sectionHeading{
+    border-bottom: 2px solid black;
+    font-size:30px;
+    font-weight: bold;
+}
+#releco{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#leftone{
+    width:50%;
+    margin-right: 3px;
+}
+#rightone{
+    width:50%;
+    margin-left: 3px;
+}
+.A1{
+    font-weight: bold;
+}
+.A2{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.A3{
+    font-size:30px;
+    font-weight: bold;
+}
